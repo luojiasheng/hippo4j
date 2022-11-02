@@ -34,4 +34,4 @@ sidebar_position: 3
 - [新东方教育科技集团](https://www.xdf.cn/)
 - [远眺网络科技有限公司](https://www.yuantiaokj.com/)
 - [浙江吉利控股集团有限公司](https://www.geely.com/)
-- [三立人（深圳）科技有限公司-焦内](https://www.bananain.com/)
+- [三立人（深圳）科技有限公司-蕉内](https://www.bananain.com/)
